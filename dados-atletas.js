@@ -8,7 +8,7 @@ class Atleta {
   }
 
   ksp() {
-    var thinking = `${this.nootas}`;
+    var thinking = `${this.notas}`;
     return thinking;
   }
 
